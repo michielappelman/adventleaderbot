@@ -1,0 +1,9 @@
+runtime: go111
+env_variables:
+  WEBEX_TEAMS_TOKEN: '123..XYZ'
+
+handlers:
+- url: /.*
+  secure: always
+  redirect_http_response_code: 301
+  script: auto

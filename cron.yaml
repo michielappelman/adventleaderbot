@@ -1,0 +1,4 @@
+cron:
+    - description: "5 minute poll job"
+      url: /poll/all
+      schedule: every 5 minutes
