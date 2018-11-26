@@ -7,7 +7,8 @@ Teams](https://www.webex.com/products/teams/index.html) rooms and associated Adv
 leaderboards.
 
 The address of the bot currently running in production is: AdventLeaderBot@webex.bot You can add the
-Bot to a room or to a space, but remember to always @-mention it to give it any commands.
+Bot to a room or talk to it directly, but remember to always @-mention it to give it any commands
+when it's part of a room.
 
 The bot uses the custom
 [github.com/michielappelman/leaderboard](https://github.com/michielappelman/leaderboard) Go package
